@@ -1,7 +1,7 @@
 {
   "name": "hexlet",
-  "type": "module",
   "version": "1.0.0",
+  "type": "module",
   "description": "Мой первый проект на Хекслете",
   "main": "index.js",
   "scripts": {
@@ -11,10 +11,13 @@
     "type": "git",
     "url": "git+https://github.com/RudchukEvg/hexlet-js.git"
   },
-  "author": "",
+  "author": "RudchukEvg",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/RudchukEvg/hexlet-js/issues"
   },
-  "homepage": "https://github.com/RudchukEvg/hexlet-js#readme"
+  "homepage": "https://github.com/RudchukEvg/hexlet-js#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
